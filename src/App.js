@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Vercel
+          What even is Vercel I swear
         </a>
         !
       </h2>
