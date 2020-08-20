@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          What even is Vercel I swear
+          What even is Vercel I swear? How about a second Test?
         </a>
         !
       </h2>
